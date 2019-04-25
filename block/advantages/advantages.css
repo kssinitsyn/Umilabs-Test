@@ -1,3 +1,10 @@
-.advantages {
+@import url('./__text/advantages__text.css');
+@import url('./__title/advantages__title.css');
+@import url('./__main-title/advantages__main-title.css');
+@import url('./__icon/advantages__icon.css');
+@import url('./__item/advantages__item.css');
+@import url('./__list/advantages__list.css');
 
+.advantages {
+    background-color: #F7F5FA;
 }
