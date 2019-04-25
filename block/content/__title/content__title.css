@@ -1,0 +1,12 @@
+.content__title {
+    margin: 165px 0 0 0;
+    padding: 0;
+
+    font-family: 'DIN Pro', sans-serif;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 54px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #222222;
+}

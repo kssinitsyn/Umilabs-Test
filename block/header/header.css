@@ -1,0 +1,7 @@
+@import url("./__btn/header__btn.css");
+@import url("./__image/header__image.css");
+
+.header {
+    display: flex;
+    flex-direction: column;
+}

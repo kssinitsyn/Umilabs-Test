@@ -1,0 +1,15 @@
+@import url("./_orange/content__subtitle_orange.css");
+
+.content__subtitle {
+    margin: 24px 0 0 0;
+    padding: 0;
+
+    font-family: 'DIN Pro', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #4A4556;
+}
