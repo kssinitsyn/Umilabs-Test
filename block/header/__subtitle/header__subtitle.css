@@ -1,6 +1,6 @@
-@import url("./_orange/content__subtitle_orange.css");
+@import url("_orange/header__subtitle_orange.css");
 
-.content__subtitle {
+.header__subtitle {
     margin: 24px 0 0 0;
     padding: 0;
 
