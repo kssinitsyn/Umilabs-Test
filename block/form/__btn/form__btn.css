@@ -1,0 +1,18 @@
+.form__btn {
+    width: 574px;
+    height: 54px;
+
+    margin: 60px auto 120px;
+
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.12);
+    border-radius: 111px;
+
+    color: #F47821;
+
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}

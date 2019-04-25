@@ -1,0 +1,8 @@
+.form__list {
+    width: 667px;
+
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+}

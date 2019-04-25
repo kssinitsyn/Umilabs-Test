@@ -1,0 +1,8 @@
+.about__list {
+    width: 980px;
+    margin: -100px auto 0;
+    padding-bottom: 80px;
+
+    display: flex;
+    flex-wrap: wrap;
+}

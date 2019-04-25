@@ -1,0 +1,11 @@
+.about__text {
+    width: 356px;
+
+    /*margin: 0;*/
+    padding: 12px 0 61px 60px;
+
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: -0.03em;
+    color: #222222;
+}

@@ -1,0 +1,11 @@
+.form__title {
+    padding-top: 100px;
+    margin: 0;
+
+    font-size: 40px;
+    font-weight: normal;
+    line-height: 52px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+}

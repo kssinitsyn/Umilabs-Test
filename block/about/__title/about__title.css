@@ -1,0 +1,10 @@
+.about__title {
+    margin: 0;
+    padding: 50px 0 0 60px;
+
+    font-size: 12px;
+    line-height: 19px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #F47821;
+}

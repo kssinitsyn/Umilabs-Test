@@ -1,0 +1,17 @@
+.form__input {
+    width: 575px;
+    margin: 0 auto;
+    padding: 20px;
+
+    background-color: #161616;
+    border: 0;
+    border-bottom: 1px solid rgba(247, 248, 250, 0.1);
+}
+
+.form__input::placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: -0.01em;
+}

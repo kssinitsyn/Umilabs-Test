@@ -1,0 +1,8 @@
+.advantages__item {
+    margin-right: 71px;
+
+    display: flex;
+    flex-direction: column;
+
+    position: relative;
+}
