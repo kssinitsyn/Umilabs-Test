@@ -1,4 +1,6 @@
 .header__image {
-    width: 100wh;
+    width: 100vw;
     height: 600px;
+
+    margin: 0 auto;
 }

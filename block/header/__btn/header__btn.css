@@ -1,8 +1,16 @@
 .header__btn {
-    width: 236px;
-    height: 54px;
+    width: 240px;
+    display: flex;
+    margin: 30px auto;
+    border: 0;
+    background-color: white;
+}
 
-    margin: 48px auto 142px;
+.header__btn-btn {
+    width: 225px;
+    height: 20px;
+
+    margin-left: 15px;
 
     font-size: 16px;
     font-weight: bold;
@@ -11,14 +19,38 @@
     text-transform: uppercase;
     color: #222222;
 
-    border-radius: 111px;
+    position: absolute;
 }
 
-.header__btn:before {
-    content: " ";
-    background-image: url('../../../image/Rectangle.svg');
-    width: 54px;
-    height: 54px;
-
+.header__plus {
     position: absolute;
+    top: 5px;
+    left:19px;
+    color:#F47821;
+
+    font-size: 34px;
+
+}
+
+.header__plus-wrap {
+    height: 54px;
+    width: 54px;
+
+    position: relative;
+    left: 0;
+
+    border-radius: 111px;
+
+
+    background-color: rgb(53%, 53%, 53%, 0.05);
+    z-index: 1;
+}
+
+.header__btn:hover>.header__plus-wrap {
+    animation: widthBtn .5s alternate forwards;
+}
+
+@keyframes widthBtn {
+    from { width: 54px; }
+    to { width: 240px; }
 }

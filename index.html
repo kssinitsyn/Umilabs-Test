@@ -12,7 +12,12 @@
 <header class="header">
     <h1 class="header__title">Ты готов стать профессионалом?</h1>
     <p class="header__subtitle">Мы ищем <span class="header__subtitle_orange">талантов</span> и <span class="header__subtitle_orange">саппортов</span> в команду. Решите на какую категорию вы претендуете. </p>
-    <button class="btn header__btn">Заполнить анкету</button>
+    <button class="header__btn">
+        <div class="header__plus-wrap">
+            <span class="header__plus">+</span>
+        </div>
+        <p class="header__btn-btn">Заполнить анкету</p>
+    </button>
     <img class="header__image" src="./image/image1.png" alt="">
 </header>
 <main class="page">
@@ -69,24 +74,24 @@
             <div class="form__icon-wrap">
                 <span class="form__icon">1</span>
             </div>
-            <label class="form__label">Фамилия и имя</label>
-            <input class="form__input" type="text" placeholder="Сидоров Александр">
+            <label class="form__label" for="name">Фамилия и имя</label>
+            <input class="form__input" id="name" type="text" placeholder="Сидоров Александр">
             <div class="form__icon-wrap">
                 <span class="form__icon">2</span>
             </div>
-            <label class="form__label">Электронная почта</label>
-            <input class="form__input" type="text" placeholder="Sidorov@yandex.ru">
+            <label class="form__label" for="email">Электронная почта</label>
+            <input class="form__input" id="email" type="email" placeholder="Sidorov@yandex.ru">
             <div class="form__icon-wrap">
                 <span class="form__icon">3</span>
             </div>
-            <label class="form__label">Телефон</label>
-            <input class="form__input" type="text"  placeholder="+7 (999)-328-14-20">
+            <label class="form__label" for="phone">Телефон</label>
+            <input class="form__input" id="phone" type="number"  placeholder="+7 (999)-328-14-20">
             <div class="form__icon-wrap">
                 <span class="form__icon">4</span>
             </div>
-            <label class="form__label" for="">Какой деятельностью, не связанной с текущими проектами, вы бы хотели заниматься в рабочее время?</label>
-            <textarea class="form__textarea" name="" id="" placeholder="Свой проект по созданию универсальной инфраструктуры строительства"></textarea>
-            <button class="btn form__btn">Отправить</button>
+            <label class="form__label" for="text">Какой деятельностью, не связанной с текущими проектами, вы бы хотели заниматься в рабочее время?</label>
+            <textarea class="form__textarea" id="text" placeholder="Свой проект по созданию универсальной инфраструктуры строительства"></textarea>
+            <button class="btn form__btn" type="submit">Отправить</button>
         </form>
     </section>
 </main>
