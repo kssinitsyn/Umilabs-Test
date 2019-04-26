@@ -1,49 +1,15 @@
 @import url('./__title/form__title.css');
-@import url('./__btn/form__btn.css');
+@import url('./__validate-btn/form__validate-btn.css');
 @import url('./__textarea/form__textarea.css');
 @import url('./__input/form__input.css');
 @import url('./__list/form__list.css');
 @import url('./__label/form__label.css');
+@import url('./__icon/form__icon.css');
+@import url('./__icon-wrap/form__icon-wrap.css');
 
 .form {
     background-color: #161616;
     color: #fff;
 
     position: relative;
-}
-
-.form__icon {
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 23px;
-    /*text-align: center;*/
-    /*vertical-align: center;*/
-    color: #F47821;
-
-    position: absolute;
-    top: 20px;
-    left: 26px;
-
-
-}
-
-.form__icon-wrap {
-    width: 64px;
-    height: 64px;
-
-    border: 1px solid rgb(100%, 100%, 100%, 0.23);
-    border-radius: 32px;
-    position: relative;
-    left: -50px;
-    top: 65px;
-}
-
-.form__item {
-    border: 2px solid white;
-    /*display: flex;*/
-}
-
-.form__input-wrap {
-
 }

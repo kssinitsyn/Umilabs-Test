@@ -1,0 +1,16 @@
+.header__btn-text {
+    width: 225px;
+    height: 20px;
+
+    margin-left: 15px;
+    padding-top: 17px;
+
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #222222;
+
+    position: absolute;
+}

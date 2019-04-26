@@ -3,12 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="88a27f3d-9190-4080-9dd5-0ce3cda80f19" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/about/__list/about__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/about/__list/about__list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/about/__text/about__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/about/__text/about__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/advantages/__icon/advantages__icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/advantages/__icon/advantages__icon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/advantages/__item/advantages__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/advantages/__item/advantages__item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/advantages/__list/advantages__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/advantages/__list/advantages__list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/btn/btn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/form/__btn/form__btn.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/form/__validate-btn/form__validate-btn.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/block/form/__input/form__input.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/form/__input/form__input.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/block/form/__label/form__label.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/form/__label/form__label.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/form/__list/form__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/form/__list/form__list.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/block/form/__textarea/form__textarea.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/form/__textarea/form__textarea.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/form/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/form/form.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/block/header/__btn/header__btn.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/header/__btn/header__btn.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/header/__image/header__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/header/__image/header__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/header/__subtitle/header__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/header/__subtitle/header__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/header/__title/header__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/header/__title/header__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/similar/__text/similar__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/similar/__text/similar__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/Rectangle.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/normalize.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,69 +36,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4886251">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="466">
-                  <caret line="93" column="74" lean-forward="true" selection-start-line="93" selection-start-column="74" selection-end-line="93" selection-end-column="74" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/page/index.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="903">
-                  <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/block/header/__btn/header__btn.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1071">
-                  <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/block/header/__image/header__image.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="63">
-                  <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/block/form/__label/form__label.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="147">
-                  <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="91" column="148" selection-start-line="91" selection-start-column="148" selection-end-line="91" selection-end-column="148" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alt</find>
+      <find>recta</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -90,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vendor/normalize.css" />
         <option value="$PROJECT_DIR$/block/advantages/__subtitle/advantages__subtitle.css" />
         <option value="$PROJECT_DIR$/block/btn/btn.css" />
         <option value="$PROJECT_DIR$/block/content/content.css" />
@@ -99,36 +77,46 @@
         <option value="$PROJECT_DIR$/block/content/__title/content__title.css" />
         <option value="$PROJECT_DIR$/block/about/about.css" />
         <option value="$PROJECT_DIR$/block/about/__item/about__item.css" />
-        <option value="$PROJECT_DIR$/block/about/__list/about__list.css" />
         <option value="$PROJECT_DIR$/block/about/__title/about__title.css" />
         <option value="$PROJECT_DIR$/block/similar/similar__title.css" />
         <option value="$PROJECT_DIR$/block/similar/__title/similar__title.css" />
-        <option value="$PROJECT_DIR$/block/similar/__text/similar__text.css" />
-        <option value="$PROJECT_DIR$/block/about/__text/about__text.css" />
         <option value="$PROJECT_DIR$/block/advantages/advantages.css" />
         <option value="$PROJECT_DIR$/block/advantages/__main-title/advantages__main-title.css" />
-        <option value="$PROJECT_DIR$/block/advantages/__icon/advantages__icon.css" />
-        <option value="$PROJECT_DIR$/block/advantages/__item/advantages__item.css" />
         <option value="$PROJECT_DIR$/block/advantages/__text/advantages__text.css" />
-        <option value="$PROJECT_DIR$/block/advantages/__list/advantages__list.css" />
-        <option value="$PROJECT_DIR$/page/index.css" />
-        <option value="$PROJECT_DIR$/block/form/__btn/form__btn.css" />
         <option value="$PROJECT_DIR$/block/form/__title/form__title.css" />
-        <option value="$PROJECT_DIR$/block/form/form.css" />
-        <option value="$PROJECT_DIR$/block/form/__list/form__list.css" />
         <option value="$PROJECT_DIR$/block/advantages/__title/advantages__title.css" />
         <option value="$PROJECT_DIR$/block/similar/__wrap/similar__wrap.css" />
         <option value="$PROJECT_DIR$/block/similar/similar.css" />
-        <option value="$PROJECT_DIR$/block/header/header.css" />
-        <option value="$PROJECT_DIR$/block/header/__subtitle/header__subtitle.css" />
         <option value="$PROJECT_DIR$/block/header/__subtitle/_orange/header__subtitle_orange.css" />
-        <option value="$PROJECT_DIR$/block/header/__title/header__title.css" />
-        <option value="$PROJECT_DIR$/block/header/__btn/header__btn.css" />
-        <option value="$PROJECT_DIR$/block/form/__label/form__label.css" />
-        <option value="$PROJECT_DIR$/block/form/__textarea/form__textarea.css" />
-        <option value="$PROJECT_DIR$/block/form/__input/form__input.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/block/header/__image/header__image.css" />
+        <option value="$PROJECT_DIR$/block/form/__btn/form__btn.css" />
+        <option value="$PROJECT_DIR$/block/form/__icon/form__icon.css" />
+        <option value="$PROJECT_DIR$/block/form/__icon-wrap/form__icon-wrap.css" />
+        <option value="$PROJECT_DIR$/block/form/form.css" />
+        <option value="$PROJECT_DIR$/block/form/__label/form__label.css" />
+        <option value="$PROJECT_DIR$/js/validation.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/block/header/__btn-icon/header__btn-icon.css" />
+        <option value="$PROJECT_DIR$/block/header/__btn-icon-wrap/header__btn-wrap.css" />
+        <option value="$PROJECT_DIR$/page/index.css" />
+        <option value="$PROJECT_DIR$/block/about/__list/about__list.css" />
+        <option value="$PROJECT_DIR$/block/about/__text/about__text.css" />
+        <option value="$PROJECT_DIR$/block/advantages/__icon/advantages__icon.css" />
+        <option value="$PROJECT_DIR$/block/advantages/__item/advantages__item.css" />
+        <option value="$PROJECT_DIR$/block/advantages/__list/advantages__list.css" />
+        <option value="$PROJECT_DIR$/block/form/__input/form__input.css" />
+        <option value="$PROJECT_DIR$/block/form/__list/form__list.css" />
+        <option value="$PROJECT_DIR$/block/form/__textarea/form__textarea.css" />
+        <option value="$PROJECT_DIR$/block/form/__validate-btn/form__validate-btn.css" />
+        <option value="$PROJECT_DIR$/block/header/__btn/header__btn.css" />
+        <option value="$PROJECT_DIR$/block/header/__btn-icon-wrap/header__icon-wrap.css" />
+        <option value="$PROJECT_DIR$/block/header/__title/header__title.css" />
+        <option value="$PROJECT_DIR$/block/header/__subtitle/header__subtitle.css" />
+        <option value="$PROJECT_DIR$/block/header/header.css" />
+        <option value="$PROJECT_DIR$/vendor/normalize.css" />
+        <option value="$PROJECT_DIR$/block/similar/__text/similar__text.css" />
+        <option value="$PROJECT_DIR$/block/header/__btn-text/header__btn-text.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -162,38 +150,6 @@
             <path>
               <item name="Umilabs-Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Umilabs-Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Umilabs-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Umilabs-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="block" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Umilabs-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Umilabs-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="block" type="462c0819:PsiDirectoryNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Umilabs-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Umilabs-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="block" type="462c0819:PsiDirectoryNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-              <item name="__input" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Umilabs-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Umilabs-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="block" type="462c0819:PsiDirectoryNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-              <item name="__label" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Umilabs-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Umilabs-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="block" type="462c0819:PsiDirectoryNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-              <item name="__textarea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,19 +196,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556181785647</updated>
-      <workItem from="1556181786773" duration="19625000" />
+      <workItem from="1556181786773" duration="31283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19625000" />
+    <option name="totallyTimeSpent" value="31283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1392" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16172107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -278,160 +234,10 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/btn/btn.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/block/content/content.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/about/__item/about__item.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/about/__list/about__list.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/about/__title/about__title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/similar/__text/similar__text.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/similar/__title/similar__title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/about/about.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="1" selection-start-line="7" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/about/__text/about__text.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/advantages/__main-title/advantages__main-title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/advantages/__text/advantages__text.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/advantages/__icon/advantages__icon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/advantages/__list/advantages__list.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/advantages/__item/advantages__item.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/form/__btn/form__btn.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/form/__title/form__title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/form/form.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/form/__list/form__list.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/advantages/__title/advantages__title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/similar/__wrap/similar__wrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/similar/similar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/advantages/advantages.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -442,73 +248,275 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/block/header/__subtitle/header__subtitle.css">
+    <entry file="file://$PROJECT_DIR$/block/btn/btn.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/form/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="63">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/about/__item/about__item.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/about/__text/about__text.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/about/__list/about__list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/about/__title/about__title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/about/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" selection-start-line="7" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/advantages/__icon/advantages__icon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/advantages/advantages.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/advantages/__title/advantages__title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/advantages/__text/advantages__text.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/advantages/__main-title/advantages__main-title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/advantages/__list/advantages__list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/advantages/__item/advantages__item.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/form/__icon/form__icon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/form/__icon-wrap/form__icon-wrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/form/__input/form__input.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/form/__label/form__label.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/form/__list/form__list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/form/__textarea/form__textarea.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/form/__title/form__title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/form/__validate-btn/form__validate-btn.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/header/__image/header__image.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/header/__subtitle/header__subtitle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/block/header/__title/header__title.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/block/header/header.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="11" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/index.css">
+    <entry file="file://$PROJECT_DIR$/block/header/__btn-icon-wrap/header__icon-wrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+        <state relative-caret-position="567">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/header/__btn-icon/header__btn-icon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/block/header/__btn/header__btn.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="189">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/block/form/__input/form__input.css">
+    <entry file="file://$PROJECT_DIR$/block/similar/similar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="42">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/similar/__wrap/similar__wrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/similar/__title/similar__title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="22" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret column="1769" selection-start-column="1769" selection-end-column="1769" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/similar/__text/similar__text.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/block/header/__btn-text/header__btn-text.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="93" column="74" lean-forward="true" selection-start-line="93" selection-start-column="74" selection-end-line="93" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/form/__textarea/form__textarea.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/form/__label/form__label.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/header/__image/header__image.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="389">
+          <caret line="91" column="148" selection-start-line="91" selection-start-column="148" selection-end-line="91" selection-end-column="148" />
         </state>
       </provider>
     </entry>

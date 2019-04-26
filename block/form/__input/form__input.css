@@ -13,10 +13,46 @@
     border-bottom: 1px solid rgba(247, 248, 250, 0.1);
 }
 
+.form__input::-webkit-input-placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: -0.01em;
+}
+
+.form__input:-ms-input-placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: -0.01em;
+}
+
+.form__input::-ms-input-placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: -0.01em;
+}
+
 .form__input::placeholder {
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
     line-height: 35px;
     letter-spacing: -0.01em;
+}
+
+.form__input:valid:not(:focus):not(:placeholder-shown) {
+    border: 1px solid green;
+}
+
+.form__input:invalid:not(:focus):not(:placeholder-shown) {
+    border: 1px solid red;
+}
+
+.form__input:focus {
+    outline: none;
 }

@@ -1,5 +1,4 @@
 @import url("../block/header/header.css");
-@import url("../block/content/content.css");
 @import url("../block/about/about.css");
 @import url("../block/similar/similar.css");
 @import url("../block/advantages/advantages.css");
@@ -40,4 +39,5 @@
 
 * {
     font-family: 'DIN Pro';
+    scroll-behavior: smooth;
 }

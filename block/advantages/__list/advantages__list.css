@@ -2,5 +2,7 @@
     width: 1139px;
     margin: 0 auto;
     padding-bottom: 160px;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
 }

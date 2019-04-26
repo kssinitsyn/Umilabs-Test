@@ -1,0 +1,28 @@
+.header__btn-icon-wrap {
+    height: 54px;
+    width: 54px;
+
+    position: relative;
+    left: 0;
+
+    border-radius: 111px;
+
+
+    background-color: rgb(53%, 53%, 53%, 0.05);
+    z-index: 1;
+}
+
+.header__btn:hover>.header__btn-icon-wrap {
+    -webkit-animation: widthBtn .5s alternate forwards;
+    animation: widthBtn .5s alternate forwards;
+}
+
+@-webkit-keyframes widthBtn {
+    from { width: 54px; }
+    to { width: 240px; }
+}
+
+@keyframes widthBtn {
+    from { width: 54px; }
+    to { width: 240px; }
+}

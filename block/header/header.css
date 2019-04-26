@@ -2,8 +2,16 @@
 @import url("./__image/header__image.css");
 @import url("./__title/header__title.css");
 @import url("./__subtitle/header__subtitle.css");
+@import url("./__btn-icon/header__btn-icon.css");
+@import url("./__btn-text/header__btn-text.css");
+@import url("./__btn-icon-wrap/header__icon-wrap.css");
 
 .header {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
     flex-direction: column;
 }
